@@ -1,0 +1,2 @@
+Movie|Deneme|Deneme|Action|2000|10.0|Iyi
+Favorite|Movie|Deneme|Deneme|Action|2000|10.0|Iyi
